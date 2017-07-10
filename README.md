@@ -2,13 +2,13 @@
 
 # Welcome to the devOps unit of Codesmith's immersive program.
 
-#### The purpose of this unit is for you to gain an understanding of:
+### The purpose of this unit is for you to gain an understanding of:
 
-1. What is devOps?
+#### 1. What is devOps?
   - [Reading] Definition.
   - [Reading] History.
   - [Reading] Modern application.
-2. What should developers learn to work well in devOps-oriented companies?
+#### 2. What should developers learn to work well in devOps-oriented companies?
   - [Reading] Importance of communication between teams.
   - [Challenge] Deployment. (AWS)
   - [Challenge] Continuous integration tooling. (Travis CI)
