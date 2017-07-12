@@ -23,3 +23,5 @@
 ### 1. What is devOps?
 #### Definition.
   DevOps is an organization-wide approach to implementing continuous deployment in keeping with [agile principles](http://agilemanifesto.org/). The term comes from both "development" and "operations", as both the developers (software engineers) and IT operations department (devOps engineers) need to work together to deploy and re-deploy their products with optimum resiliency and frequency.
+
+![DevOps Workflow](devops_workflow.png)
